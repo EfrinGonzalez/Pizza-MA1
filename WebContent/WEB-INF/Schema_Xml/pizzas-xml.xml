@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pizzas>
+   <pizza id="1">
+      <name>Barbacoa</name>
+      <description>Tomate and chees</description>
+      <price>50.0kr</price>
+   </pizza>
+   <pizza id="2">
+      <name>Margarita</name>
+      <description>Tomate and chees</description>
+      <price>50.0kr</price>
+   </pizza>
+   <pizza id="3">
+      <name>Salar</name>
+      <description>Tomate and chees</description>
+      <price>50.0kr</price>
+   </pizza>
+</pizzas>
